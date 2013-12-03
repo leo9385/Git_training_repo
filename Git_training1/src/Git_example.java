@@ -1,4 +1,4 @@
 
-//first push attempt3 - 2asdza
+//first push attempt
 public class Git_example {
 }
